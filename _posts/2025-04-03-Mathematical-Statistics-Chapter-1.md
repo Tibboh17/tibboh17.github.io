@@ -1,5 +1,5 @@
 ---
-title: Introduction to Mathematical Statistics, Hogg - Chapter 1
+title: Introduction to Mathematical Statistics - Chapter 1
 categories: [Study, Mathematical Statistics]
 tags: [Mathematical Statistics, Probability, Hogg]
 math: true
@@ -19,7 +19,15 @@ math: true
 표본공간 C의 부분집합을 사건이라고 부른다. 집합 연산(여집합, 합집합, 교집합, 분할 등)을 이용해 사건들을 다룰 수 있습니다.
 
 ## σ-field
-집합 $$ Ω $$의 부분집합들로 구성된 한 모임 $$ F $$가 다음 세 성질을 만족하면, $$ F $$를 $$ σ $$-필드라고 부른다.
+확률론에서, 사건들의 모임이 적절한 연산(여집합, 가산 합집합 등)에 대해 닫혀 있어야 하는데, 이를 만족하는 부분집합들의 모임을 $σ$-필드라 힌디.
 
-1. $$ \Omega\in F, \emptyset \in F $$
-2. 
+# Probability Set Function
+
+## Definition and Features
+
+표본공간 $C$, 사건들의 집합 $B$, 확률함수 $P$로 이루어진 삼중쌍을 말한다. 확률함수 $P$는 다음 조건을 만족한다.
+
+- $\forall A\in B,P(A)\ge 0$
+- $P(c) = 1$
+- $\left\{ A_n \right\}$은 $B$에 있는 사건열이고 $\forall m\neq n, A_m\cap A_n=\emptyset$이면
+$$ P\left(\bigcup_{n=1}^{\infty }A_n \right)=\sum_{n=1}^{\infty }P(A_n). $$
