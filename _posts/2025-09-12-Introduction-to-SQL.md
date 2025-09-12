@@ -27,4 +27,4 @@ SQL 문법을 배우기 전에, **관계형 데이터베이스**가 실제로 �
 SQL을 배우는 목적은 이 데이터에 대해 “도로 위에 바퀴가 네 개 미만인 차량 유형은 무엇인가?”, “테슬라는 자동차 모델을 몇 가지 생산하는가?”와 같은 구체적인 질문에 답하는 방법을 익혀, 앞으로 더 나은 의사결정을 내리도록 돕는 것이다.
 
 # Referece
-- [SQLBolt: Introduction to SQL](https://sqlbolt.com)
+- [SQLBolt-Introduction to SQL](https://sqlbolt.com)
