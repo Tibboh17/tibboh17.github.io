@@ -2,6 +2,7 @@
 title: "Basic SQL SELECT"
 categories: [Database, SQL]
 tags: [Database, SQL]
+pin: true
 ---
 
 # Description
