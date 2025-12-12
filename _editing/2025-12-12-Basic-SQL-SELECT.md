@@ -1,5 +1,5 @@
 ---
-title: Introduction to SQL
+title: "Basic SQL: SELECT"
 categories: [Database, SQL]
 tags: [Database, SQL]
 ---
