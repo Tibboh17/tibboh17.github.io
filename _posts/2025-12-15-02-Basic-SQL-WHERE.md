@@ -2,7 +2,6 @@
 title: "Basic SQL: WHERE"
 categories: [Database, SQL]
 tags: [Database, SQL]
-order: 2
 ---
 
 # Description
