@@ -2,7 +2,6 @@
 title: "Basic SQL: AND, OR, NOT"
 categories: [Database, SQL]
 tags: [Database, SQL]
-order: 3
 ---
 
 # Description
