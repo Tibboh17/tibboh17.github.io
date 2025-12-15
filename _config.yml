@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: TIBBOHLOG # the main title
 
-tagline: A mathematics major who stll has a lot to study. # it will display as the sub-title
+tagline: A mathematics major who still has a lot to study. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
