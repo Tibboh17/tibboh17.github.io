@@ -2,7 +2,7 @@
 title: "Basic SQL: WHERE"
 categories: [Database, SQL]
 tags: [Database, SQL]
-pin: true
+order: 2
 ---
 
 # Description
