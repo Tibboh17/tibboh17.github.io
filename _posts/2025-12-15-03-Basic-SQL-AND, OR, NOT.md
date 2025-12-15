@@ -1,5 +1,6 @@
 ---
 title: "Basic SQL: AND, OR, NOT"
+slug: basic-sql-and-or-not
 categories: [Database, SQL]
 tags: [Database, SQL]
 ---

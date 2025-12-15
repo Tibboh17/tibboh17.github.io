@@ -1,5 +1,6 @@
 ---
 title: "Basic SQL: WHERE"
+slug: basic-sql-where
 categories: [Database, SQL]
 tags: [Database, SQL]
 ---
