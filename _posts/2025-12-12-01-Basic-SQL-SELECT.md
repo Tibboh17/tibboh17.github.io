@@ -1,5 +1,6 @@
 ---
 title: "Basic SQL: SELECT"
+slug: basic-sql-select
 categories: [Database, SQL]
 tags: [Database, SQL]
 ---
