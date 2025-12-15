@@ -1,5 +1,5 @@
 ---
-title: "Basic SQL SELECT"
+title: "Basic SQL: SELECT"
 categories: [Database, SQL]
 tags: [Database, SQL]
 pin: true
@@ -9,11 +9,13 @@ pin: true
 `SELECT` 문은 데이터베이스 테이블에서 조회할 컬럼과 데이터를 지정하는 **SQL**의 기본 구문이다. 어떤 데이터를 결과로 반환할지 정의하며, 대부분의 **SQL** 쿼리는 `SELECT` 문을 중심으로 작성된다.
 
 # Syntax
-컬럼은 쉼표(,)로 구분하며, 작성한 순서대로 결과가 출력된다
+컬럼은 쉼표(,)로 구분하며, 작성한 순서대로 결과가 출력된다.
+
 ```SQL
 SELECT column1, column2, ...
 FROM table_name;
 ```
+
 - `SELECT`: 조회할 컬럼을 지정
 - `FROM`: 데이터를 가져올 테이블을 지정
 
