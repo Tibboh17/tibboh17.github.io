@@ -20,7 +20,7 @@ FROM table_name;
 - `FROM`: 데이터를 가져올 테이블을 지정
 
 # Example
-## Specific Columns
+## Basic Example
 `reviews` 테이블에서 `review_id`, `submit_date`, `stars` 컬럼만 선택하여 조회한다. 결과는 세 컬럼만 포함한 테이블 형태로 반환된다.
 
 ```SQL
