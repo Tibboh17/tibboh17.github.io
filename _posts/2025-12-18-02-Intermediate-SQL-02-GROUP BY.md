@@ -11,7 +11,7 @@ tags: [Database, SQL]
 
 # Syntax
 
-`SELECT` 절에 포함된 집계 함수가 아닌 컬럼은 반드시 `GROUP BY` 에 포함되어야 하고 하나 이상의 컬럼으로 그룹화할 수도 있다
+`SELECT` 절에 포함된 집계 함수가 아닌 컬럼은 반드시 `GROUP BY`에 포함되어야 하고 하나 이상의 컬럼으로 그룹화할 수도 있다
 
 ```SQL
 SELECT column_name, AGGREGATE_FUNCTION(column_name)
