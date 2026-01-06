@@ -11,7 +11,7 @@ tags: [Database, SQL]
 
 # Syntax
 
-대표적인 집계 함수로는 `COUNT`, `SUM`, `AVG`, `MIN`, `MAX` 가 있고 여러 행을 하나의 결과 행으로 반환한다. 또한, `GROUP BY` 와 함께 사용하면 그룹별 집계가 가능하다.
+대표적인 집계 함수로는 `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`가 있고 여러 행을 하나의 결과 행으로 반환한다. 또한, `GROUP BY`와 함께 사용하면 그룹별 집계가 가능하다.
 
 ```SQL
 SELECT AGGREGATE_FUNCTION(column_name)
