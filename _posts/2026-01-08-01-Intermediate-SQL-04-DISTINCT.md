@@ -1,5 +1,5 @@
 ---
-title: "Basic SQL: DISTINCT"
+title: "Intermediate SQL: DISTINCT"
 slug: intermediate-sql-distinct
 categories: [Database, SQL]
 tags: [Database, SQL]
