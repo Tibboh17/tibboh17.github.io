@@ -65,4 +65,5 @@ FROM reviews;
 ```
 
 # Reference
-- https://datalemur.com/sql-tutorial/sql-null
+
+- [DataLemur SQL Tutorial](https://datalemur.com/sql-tutorial/sql-null)
