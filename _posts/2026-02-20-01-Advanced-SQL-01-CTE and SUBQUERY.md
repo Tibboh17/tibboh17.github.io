@@ -78,7 +78,5 @@ FROM customer_totals
 WHERE total_amount >= 1000;
 ```
 
----
-
 # Reference
 - [DataLemur SQL Tutorial](https://datalemur.com/sql-tutorial/sql-cte-subquery)
