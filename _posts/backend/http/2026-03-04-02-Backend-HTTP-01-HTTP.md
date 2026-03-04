@@ -18,7 +18,7 @@ tags: [Backend, HTTP]
 - **Client**: 서비스를 요청하는 쪽(주로 웹 브라우저). "데이터 좀 보여줘"라고 먼저 말을 거는 손님 역할이다.
 - **Server**: 요청을 받아 처리하는 쪽(백엔드). 손님이 올 때까지 기다리다가, 요청이 들어오면 그에 맞는 데이터를 서빙하는 주방 역할이다.
 
-![image](/assets/img/backend/http/client-server_model_architecture.png)
+![image](/assets/img/backend/http/client-server_model_architecture.jpg)
 _Client-Server Model Architecture_
 
 `HTTP` 통신에서 서버가 클라이언트에게 먼저 데이터를 보내는 일은 없다. 반드시 클라이언트의 `Request`가 선행되어야 서버의 `Response`가 발생한다.
