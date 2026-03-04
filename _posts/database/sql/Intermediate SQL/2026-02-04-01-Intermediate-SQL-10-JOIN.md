@@ -3,6 +3,7 @@ title: "Intermediate SQL: JOIN"
 slug: intermediate-sql-join
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-02-04 20:00:00 +0900
 ---
 
 # Description

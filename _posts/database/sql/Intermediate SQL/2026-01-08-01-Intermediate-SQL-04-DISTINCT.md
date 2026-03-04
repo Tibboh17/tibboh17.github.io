@@ -3,6 +3,7 @@ title: "Intermediate SQL: DISTINCT"
 slug: intermediate-sql-distinct
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-01-08 20:00:00 +0900
 ---
 
 # Description

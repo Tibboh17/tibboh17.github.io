@@ -3,6 +3,7 @@ title: "Intermediate SQL: GROUP BY"
 slug: intermediate-sql-group-by
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2025-12-18 20:30:00 +0900
 ---
 
 # Description

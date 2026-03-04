@@ -3,6 +3,7 @@ title: "Advanced SQL: SELF-JOIN"
 slug: advanced-sql-self-join
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-03-04 01:00:00 +0900
 ---
 
 # Description

@@ -3,6 +3,7 @@ title: "HTTP: HTTP란 무엇인가?"
 slug: http-what-is-http
 categories: [Backend, HTTP]
 tags: [Backend, HTTP]
+date: 2026-03-04 23:00:00 +0900
 ---
 
 # Definition

@@ -3,6 +3,7 @@ title: "Intermediate SQL: CASE"
 slug: intermediate-sql-case
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-02-03 20:00:00 +0900
 ---
 
 # Description

@@ -3,6 +3,7 @@ title: "Intermediate SQL: Division"
 slug: intermediate-sql-division
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-01-10 20:00:00 +0900
 ---
 
 # Description

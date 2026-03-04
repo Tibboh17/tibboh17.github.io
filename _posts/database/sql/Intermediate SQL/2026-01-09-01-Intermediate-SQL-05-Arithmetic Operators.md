@@ -3,6 +3,7 @@ title: "Intermediate SQL: Arithmetic Operators"
 slug: intermediate-sql-arithmetic-operators
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-01-09 20:00:00 +0900
 ---
 
 # Description
