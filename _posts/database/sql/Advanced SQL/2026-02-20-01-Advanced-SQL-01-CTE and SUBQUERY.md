@@ -1,5 +1,5 @@
 ---
-title: "Adavnced SQL: CTE and SUBQUERY"
+title: "Advanced SQL: CTE and SUBQUERY"
 slug: advanced-sql-cte-subquery
 categories: [Database, SQL]
 tags: [Database, SQL]
