@@ -1,5 +1,5 @@
 ---
-title: "Instermediate SQL: JOIN"
+title: "Intermediate SQL: JOIN"
 slug: intermediate-sql-join
 categories: [Database, SQL]
 tags: [Database, SQL]

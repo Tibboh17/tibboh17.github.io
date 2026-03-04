@@ -1,5 +1,5 @@
 ---
-title: "Instermediate SQL: Date Functions"
+title: "Intermediate SQL: Date Functions"
 slug: intermediate-sql-date-functions
 categories: [Database, SQL]
 tags: [Database, SQL]
