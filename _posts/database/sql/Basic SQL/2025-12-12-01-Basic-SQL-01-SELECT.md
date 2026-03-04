@@ -3,6 +3,7 @@ title: "Basic SQL: SELECT"
 slug: basic-sql-select
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2025-12-12 20:00:00 +0900
 ---
 
 # Description

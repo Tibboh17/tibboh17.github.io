@@ -3,6 +3,7 @@ title: "Intermediate SQL: Aggregate Functions"
 slug: intermediate-sql-aggregate-functions
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2025-12-18 20:00:00 +0900
 ---
 
 # Description

@@ -3,6 +3,7 @@ title: "Advanced SQL: LAG and LEAD"
 slug: advanced-sql-lag-and-lead
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-03-01 20:00:00 +0900
 ---
 
 # Description

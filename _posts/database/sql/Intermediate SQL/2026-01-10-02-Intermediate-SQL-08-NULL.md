@@ -3,6 +3,7 @@ title: "Intermediate SQL: NULL"
 slug: intermediate-sql-null
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-01-10 20:30:00 +0900
 ---
 
 # Description

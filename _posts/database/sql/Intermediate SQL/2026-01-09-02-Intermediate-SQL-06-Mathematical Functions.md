@@ -3,6 +3,7 @@ title: "Intermediate SQL: Mathematical Functions"
 slug: intermediate-sql-mathematical-functions
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2026-01-09 20:30:00 +0900
 ---
 
 # Description

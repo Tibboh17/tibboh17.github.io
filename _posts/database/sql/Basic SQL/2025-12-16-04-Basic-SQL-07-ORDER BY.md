@@ -3,6 +3,7 @@ title: "Basic SQL: ORDER BY"
 slug: basic-sql-order-by
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2025-12-16 21:30:00 +0900
 ---
 
 # Description

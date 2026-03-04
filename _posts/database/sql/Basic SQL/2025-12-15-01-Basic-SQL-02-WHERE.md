@@ -3,6 +3,7 @@ title: "Basic SQL: WHERE"
 slug: basic-sql-where
 categories: [Database, SQL]
 tags: [Database, SQL]
+date: 2025-12-15 20:00:00 +0900
 ---
 
 # Description
