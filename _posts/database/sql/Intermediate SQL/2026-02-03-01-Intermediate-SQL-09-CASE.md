@@ -1,5 +1,5 @@
 ---
-title: "Instermediate SQL: CASE"
+title: "Intermediate SQL: CASE"
 slug: intermediate-sql-case
 categories: [Database, SQL]
 tags: [Database, SQL]

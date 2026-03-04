@@ -1,5 +1,5 @@
 ---
-title: "Instermediate SQL: NULL"
+title: "Intermediate SQL: NULL"
 slug: intermediate-sql-null
 categories: [Database, SQL]
 tags: [Database, SQL]
