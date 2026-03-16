@@ -3,7 +3,7 @@ title: "Advanced SQL: UNION, INTERSECT, EXCEPT"
 slug: advanced-sql-union-intersect-except
 categories: [Database, SQL]
 tags: [Database, SQL]
-date: 2026-03-12 20:00:00 +0900
+date: 2026-03-16 20:00:00 +0900
 ---
 
 # Description
